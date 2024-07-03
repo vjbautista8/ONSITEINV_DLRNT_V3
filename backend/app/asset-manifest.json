@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/appfiles/v2/3f6d6bef-732e-49d1-9e08-fca779e5c4eb/1.0/b362ea0f99048c9ffb64c90ca387149b0596f3fe022306e9932219721209d7ea/r4/app/static/css/main.9d48081c.css",
+    "main.js": "/appfiles/v2/3f6d6bef-732e-49d1-9e08-fca779e5c4eb/1.0/b362ea0f99048c9ffb64c90ca387149b0596f3fe022306e9932219721209d7ea/r4/app/static/js/main.d2be3f9b.js",
+    "static/css/586.3c1ffb3b.chunk.css": "/appfiles/v2/3f6d6bef-732e-49d1-9e08-fca779e5c4eb/1.0/b362ea0f99048c9ffb64c90ca387149b0596f3fe022306e9932219721209d7ea/r4/app/static/css/586.3c1ffb3b.chunk.css",
+    "static/js/586.7a116d8c.chunk.js": "/appfiles/v2/3f6d6bef-732e-49d1-9e08-fca779e5c4eb/1.0/b362ea0f99048c9ffb64c90ca387149b0596f3fe022306e9932219721209d7ea/r4/app/static/js/586.7a116d8c.chunk.js",
+    "static/js/684.0c7da0e4.chunk.js": "/appfiles/v2/3f6d6bef-732e-49d1-9e08-fca779e5c4eb/1.0/b362ea0f99048c9ffb64c90ca387149b0596f3fe022306e9932219721209d7ea/r4/app/static/js/684.0c7da0e4.chunk.js",
+    "index.html": "/appfiles/v2/3f6d6bef-732e-49d1-9e08-fca779e5c4eb/1.0/b362ea0f99048c9ffb64c90ca387149b0596f3fe022306e9932219721209d7ea/r4/app/index.html",
+    "static/media/slick.svg": "/appfiles/v2/3f6d6bef-732e-49d1-9e08-fca779e5c4eb/1.0/b362ea0f99048c9ffb64c90ca387149b0596f3fe022306e9932219721209d7ea/r4/app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/appfiles/v2/3f6d6bef-732e-49d1-9e08-fca779e5c4eb/1.0/b362ea0f99048c9ffb64c90ca387149b0596f3fe022306e9932219721209d7ea/r4/app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/appfiles/v2/3f6d6bef-732e-49d1-9e08-fca779e5c4eb/1.0/b362ea0f99048c9ffb64c90ca387149b0596f3fe022306e9932219721209d7ea/r4/app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/appfiles/v2/3f6d6bef-732e-49d1-9e08-fca779e5c4eb/1.0/b362ea0f99048c9ffb64c90ca387149b0596f3fe022306e9932219721209d7ea/r4/app/static/media/slick.295183786cd8a1389865.woff",
+    "main.9d48081c.css.map": "/appfiles/v2/3f6d6bef-732e-49d1-9e08-fca779e5c4eb/1.0/b362ea0f99048c9ffb64c90ca387149b0596f3fe022306e9932219721209d7ea/r4/app/static/css/main.9d48081c.css.map",
+    "main.d2be3f9b.js.map": "/appfiles/v2/3f6d6bef-732e-49d1-9e08-fca779e5c4eb/1.0/b362ea0f99048c9ffb64c90ca387149b0596f3fe022306e9932219721209d7ea/r4/app/static/js/main.d2be3f9b.js.map",
+    "586.3c1ffb3b.chunk.css.map": "/appfiles/v2/3f6d6bef-732e-49d1-9e08-fca779e5c4eb/1.0/b362ea0f99048c9ffb64c90ca387149b0596f3fe022306e9932219721209d7ea/r4/app/static/css/586.3c1ffb3b.chunk.css.map",
+    "586.7a116d8c.chunk.js.map": "/appfiles/v2/3f6d6bef-732e-49d1-9e08-fca779e5c4eb/1.0/b362ea0f99048c9ffb64c90ca387149b0596f3fe022306e9932219721209d7ea/r4/app/static/js/586.7a116d8c.chunk.js.map",
+    "684.0c7da0e4.chunk.js.map": "/appfiles/v2/3f6d6bef-732e-49d1-9e08-fca779e5c4eb/1.0/b362ea0f99048c9ffb64c90ca387149b0596f3fe022306e9932219721209d7ea/r4/app/static/js/684.0c7da0e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d48081c.css",
+    "static/js/main.d2be3f9b.js"
+  ]
+}
